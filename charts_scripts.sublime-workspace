@@ -503,7 +503,7 @@
 			"file": "preparam.py",
 			"settings":
 			{
-				"buffer_size": 304,
+				"buffer_size": 339,
 				"line_ending": "Unix"
 			}
 		},
@@ -685,6 +685,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"filename",
 			"pline",
 			"sys.",
 			"array_inedx",
@@ -811,8 +812,7 @@
 			"previous_bar[",
 			"now_bar[",
 			"Busket[",
-			"sum_array_inedx",
-			"trend_smooth"
+			"sum_array_inedx"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -851,7 +851,7 @@
 					"file": "preparam.py",
 					"settings":
 					{
-						"buffer_size": 304,
+						"buffer_size": 339,
 						"regions":
 						{
 							"bookmark_a":
@@ -860,8 +860,8 @@
 								"regions":
 								[
 									[
-										164,
-										164
+										194,
+										194
 									]
 								]
 							},
@@ -871,8 +871,8 @@
 								"regions":
 								[
 									[
-										164,
-										164
+										194,
+										194
 									]
 								]
 							}
@@ -880,8 +880,8 @@
 						"selection":
 						[
 							[
-								176,
-								176
+								119,
+								119
 							]
 						],
 						"settings":
